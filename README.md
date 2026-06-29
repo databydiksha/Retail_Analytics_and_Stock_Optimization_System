@@ -1,5 +1,9 @@
 # Retail Analytics & Stock Optimization System
-
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Analysis-yellow?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge)
+![Business Analytics](https://img.shields.io/badge/Business-Analytics-success?style=for-the-badge)
 ## Project Overview
 
 This project demonstrates how Business Analytics can improve retail operations by integrating SQL, Python, and Power BI into a single data-driven solution.

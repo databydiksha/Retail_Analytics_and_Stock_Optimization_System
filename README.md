@@ -69,7 +69,6 @@ Power BI Dashboard Development
         ▼
 Business Insights & Decision Support
 ```
-
 This workflow illustrates how raw retail data is transformed into actionable business insights through database management, data analysis, and interactive visualization.
 ---
 

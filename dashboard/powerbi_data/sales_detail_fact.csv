@@ -1,0 +1,115 @@
+sale_date,product_name,category,customer_name,qty,revenue
+2026-04-01,Milk 1L,Dairy,Amit Sharma,2,120.0
+2026-04-01,Lays Chips,Snacks,Amit Sharma,3,60.0
+2026-04-01,Namkeen,Snacks,Amit Sharma,1,50.0
+2026-04-01,Shampoo,Personal Care,Neha Verma,1,180.0
+2026-04-01,Cheese Slices,Dairy,Neha Verma,2,240.0
+2026-04-01,Toothpaste,Personal Care,Neha Verma,1,95.0
+2026-04-02,Rice 5kg,Groceries,Rahul Mehta,1,350.0
+2026-04-02,Sugar 1kg,Groceries,Rahul Mehta,2,90.0
+2026-04-02,Cooking Oil 1L,Groceries,Rahul Mehta,1,150.0
+2026-04-02,Maggi Noodles,Snacks,Sneha Kapoor,3,42.0
+2026-04-02,Biscuits Pack,Snacks,Sneha Kapoor,2,60.0
+2026-04-02,Chocolate,Snacks,Sneha Kapoor,2,120.0
+2026-04-03,Coca Cola 1L,Beverages,Vikas Singh,1,90.0
+2026-04-03,Pepsi 1L,Beverages,Vikas Singh,2,170.0
+2026-04-03,Cold Drink Can,Beverages,Vikas Singh,3,120.0
+2026-04-03,Soap Bar,Personal Care,Pooja Jain,4,160.0
+2026-04-03,Toothpaste,Personal Care,Pooja Jain,2,190.0
+2026-04-03,Face Wash,Personal Care,Pooja Jain,1,180.0
+2026-04-04,Detergent Powder,Household,Rohit Patil,1,220.0
+2026-04-04,Dishwash Liquid,Household,Rohit Patil,1,150.0
+2026-04-04,Handwash,Household,Rohit Patil,2,180.0
+2026-04-04,Rice 5kg,Groceries,Anjali Desai,2,700.0
+2026-04-04,Wheat Flour 5kg,Groceries,Anjali Desai,1,300.0
+2026-04-04,Salt,Groceries,Anjali Desai,2,40.0
+2026-04-05,Tea Powder,Groceries,Karan Shah,1,220.0
+2026-04-05,Coffee,Groceries,Karan Shah,1,300.0
+2026-04-05,Namkeen,Snacks,Karan Shah,3,150.0
+2026-04-05,Milk 1L,Dairy,Meera Nair,1,60.0
+2026-04-05,Butter 500g,Dairy,Meera Nair,1,250.0
+2026-04-05,Cheese Slices,Dairy,Meera Nair,1,120.0
+2026-04-06,Maggi Noodles,Snacks,Amit Sharma,5,70.0
+2026-04-06,Lays Chips,Snacks,Amit Sharma,2,40.0
+2026-04-06,Biscuits Pack,Snacks,Amit Sharma,2,60.0
+2026-04-06,Coca Cola 1L,Beverages,Rahul Mehta,2,180.0
+2026-04-06,Fruit Juice,Beverages,Rahul Mehta,1,110.0
+2026-04-06,Energy Drink,Beverages,Rahul Mehta,2,220.0
+2026-04-07,Shampoo,Personal Care,Vikas Singh,1,180.0
+2026-04-07,Body Lotion,Personal Care,Vikas Singh,1,250.0
+2026-04-07,Face Wash,Personal Care,Vikas Singh,1,180.0
+2026-04-07,Detergent Powder,Household,Neha Verma,2,440.0
+2026-04-07,Floor Cleaner,Household,Neha Verma,1,200.0
+2026-04-07,Toilet Cleaner,Household,Neha Verma,1,120.0
+2026-04-08,Rice 5kg,Groceries,Pooja Jain,1,350.0
+2026-04-08,Sugar 1kg,Groceries,Pooja Jain,1,45.0
+2026-04-08,Cooking Oil 1L,Groceries,Pooja Jain,1,150.0
+2024-01-08,Tea Powder,Groceries,Arjun Malhotra,3,450.0
+2024-01-15,Toothpaste,Personal Care,Deepak Joshi,2,220.0
+2024-01-27,Lays Chips,Snacks,Varun Sood,5,875.0
+2024-02-03,Sugar 1kg,Groceries,Yash Malhotra,2,320.0
+2024-02-14,Dishwash Liquid,Household,Jiya Bose,4,760.0
+2024-02-26,Handwash,Household,Vikas Mehta,1,180.0
+2024-03-05,Coffee,Groceries,Pallavi Seth,6,1260.0
+2024-03-18,Fruit Juice,Beverages,Ritu Agarwal,2,140.0
+2024-03-29,Fruit Juice,Beverages,Gaurav Pillai,3,690.0
+2024-04-04,Rice 5kg,Groceries,Customer27,2,280.0
+2024-04-17,Toilet Cleaner,Household,Saloni Gupta,5,1100.0
+2024-04-28,Namkeen,Snacks,Isha Kapoor,1,150.0
+2024-05-09,Milk 1L,Dairy,Naina Bhatia,4,620.0
+2024-05-21,Wheat Flour 5kg,Groceries,Lakshya Goel,3,870.0
+2024-06-02,Dishwash Liquid,Household,Kavita Sharma,2,260.0
+2024-06-15,Energy Drink,Beverages,Rajat Ahuja,6,1320.0
+2024-06-28,Toilet Cleaner,Household,Simran Kaur,2,420.0
+2024-07-06,Soap Bar,Personal Care,Mansi Gill,4,800.0
+2024-07-18,Soap Bar,Personal Care,Tanvi Shah,3,510.0
+2024-07-29,Body Lotion,Personal Care,Naveen Shetty,7,1540.0
+2024-08-10,Salt,Groceries,Sneha Patel,2,310.0
+2024-08-24,Cheese Slices,Dairy,Payal Sen,4,740.0
+2024-09-03,Coca Cola 1L,Beverages,Harshit Anand,1,120.0
+2024-09-19,Salt,Groceries,Harsh Agarwal,5,950.0
+2024-09-30,Biscuits Pack,Snacks,Heena Arvind,6,1200.0
+2024-10-12,Wheat Flour 5kg,Groceries,Aditya Roy,2,360.0
+2024-10-26,Cold Drink Can,Beverages,Bhavna Jindal,7,1470.0
+2024-11-08,Chocolate,Snacks,Aarav Sharma,3,540.0
+2024-11-22,Pepsi 1L,Beverages,Aditi Bhardwaj,2,260.0
+2024-12-05,Handwash,Household,Jhanvi Kapoor,8,1680.0
+2024-12-19,Cold Drink Can,Beverages,Aditya Rao,4,880.0
+2025-01-04,Detergent Powder,Household,Sahil Arora,2,240.0
+2025-01-16,Rice 5kg,Groceries,Abhishek Rana,5,1150.0
+2025-01-29,Cooking Oil 1L,Groceries,Riya Gupta,3,510.0
+2025-02-11,Pepsi 1L,Beverages,Sana Ali,4,680.0
+2025-02-24,Shampoo,Personal Care,Manish Gupta,2,210.0
+2025-03-07,Chocolate,Snacks,Uday Chandra,7,1610.0
+2025-03-20,Face Wash,Personal Care,Meera Sinha,3,720.0
+2025-04-02,Butter 500g,Dairy,Komal Puri,2,390.0
+2025-04-16,Sugar 1kg,Groceries,Simran Kaur,6,1260.0
+2025-04-28,Biscuits Pack,Snacks,Kunal Suri,1,95.0
+2025-05-09,Detergent Powder,Household,Rahul Yadav,5,925.0
+2025-05-22,Energy Drink,Beverages,Dev Malviya,3,570.0
+2025-06-05,Tea Powder,Groceries,Arjun Reddy,7,1540.0
+2025-06-18,Coffee,Groceries,Ishita Dutta,2,330.0
+2025-07-01,Shampoo,Personal Care,Deepak Roy,4,760.0
+2025-07-14,Face Wash,Personal Care,Tanya Narang,8,1840.0
+2025-07-27,Floor Cleaner,Household,Priya Verma,3,480.0
+2025-08-09,Maggi Noodles,Snacks,Ira Thomas,4,800.0
+2025-08-23,Lays Chips,Snacks,Nisha Kulkarni,2,170.0
+2025-09-04,Namkeen,Snacks,Lavanya Iqbal,6,1380.0
+2025-09-17,Body Lotion,Personal Care,Nikhil Mishra,3,660.0
+2025-09-30,Floor Cleaner,Household,Aniket Pathak,5,900.0
+2025-10-12,Sugar 1kg,Groceries,Akash Singh,2,320.0
+2025-10-26,Toilet Cleaner,Household,Reema Naidu,8,1760.0
+2025-11-08,Handwash,Household,Aman Khanna,3,540.0
+2025-11-21,Toothpaste,Personal Care,Muskan Oberoi,4,780.0
+2025-12-03,Fruit Juice,Beverages,Karan Singh,1,70.0
+2025-12-18,Energy Drink,Beverages,Tushar Modi,6,1320.0
+2026-01-06,Rice 5kg,Groceries,Priya Iyer,2,280.0
+2026-01-20,Wheat Flour 5kg,Groceries,Tarun Arvind,4,1160.0
+2026-02-03,Toothpaste,Personal Care,Tanvi Chawla,3,330.0
+2026-02-17,Body Lotion,Personal Care,Sakshi Luthra,7,1540.0
+2026-03-02,Chocolate,Snacks,Customer26,3,540.0
+2026-03-15,Cold Drink Can,Beverages,Sumeet Soni,9,1890.0
+2026-03-29,Tea Powder,Groceries,Riya Kulkarni,3,450.0
+2026-04-10,Fruit Juice,Beverages,Vidhi Anand,4,920.0
+2026-04-22,Coca Cola 1L,Beverages,Pooja Nair,2,240.0
+2026-05-01,Coffee,Groceries,Ritesh Kumar,6,1260.0

@@ -1,6 +1,6 @@
-# 🛒 Retail Analytics & Stock Optimization System
+# Retail Analytics & Stock Optimization System
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates how Business Analytics can improve retail operations by integrating SQL, Python, and Power BI into a single data-driven solution.
 
@@ -8,7 +8,7 @@ The system enables sales analysis, inventory monitoring, customer insights, and 
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Retail businesses often face challenges such as:
 
@@ -22,7 +22,7 @@ This project addresses these challenges through an end-to-end analytics solution
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - SQL
 - Python
@@ -34,7 +34,7 @@ This project addresses these challenges through an end-to-end analytics solution
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Retail-Analytics-and-Stock-Optimization-System
@@ -49,7 +49,7 @@ Retail-Analytics-and-Stock-Optimization-System
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ### Dashboard Overview
 
@@ -95,7 +95,7 @@ designed using SQL to maintain data integrity and efficient querying.
 
 ---
 
-## 📈 Key Business Insights
+## Key Business Insights:
 
 - Identified top-performing products contributing the highest revenue.
 - Detected products approaching reorder levels.
@@ -105,7 +105,7 @@ designed using SQL to maintain data integrity and efficient querying.
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Machine Learning based Sales Forecasting
 - Demand Prediction
@@ -115,7 +115,7 @@ designed using SQL to maintain data integrity and efficient querying.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Diksha Pandey**
 

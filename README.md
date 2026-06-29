@@ -50,7 +50,27 @@ Retail-Analytics-and-Stock-Optimization-System
 ├── python
 └── sql
 ```
+---
 
+## Project Workflow
+
+```text
+Retail Business Data
+        │
+        ▼
+SQL Database Design & Data Storage
+        │
+        ▼
+Python Data Cleaning & Analysis
+        │
+        ▼
+Power BI Dashboard Development
+        │
+        ▼
+Business Insights & Decision Support
+```
+
+This workflow illustrates how raw retail data is transformed into actionable business insights through database management, data analysis, and interactive visualization.
 ---
 
 ## Dashboard Preview

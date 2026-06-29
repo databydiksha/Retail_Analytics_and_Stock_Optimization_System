@@ -87,15 +87,19 @@ Retail-Analytics-and-Stock-Optimization-System
 
 ## 🗄️ Database Design
 
-The project uses a relational database consisting of:
+The database follows a relational model consisting of:
 
 - Customer
 - Product
-- Inventory
 - Sales
+- Inventory
 - Sales Details
 
-designed using SQL to maintain data integrity and efficient querying.
+These tables are connected using primary and foreign keys to ensure data integrity and efficient querying.
+
+### ER Diagram
+
+![ER Diagram](images/er_diagram.png)
 
 ---
 
